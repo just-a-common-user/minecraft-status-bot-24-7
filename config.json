@@ -10,8 +10,8 @@
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
+            "name": "HIGHIQZONE",
+            "ip": "highiqzone.minefort.com",
             "port": 25565,
             "channelId": "1500508292504486120",
             "messageId": "1361782035923992848",
